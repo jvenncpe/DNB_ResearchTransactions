@@ -10,5 +10,6 @@ ETL Lineage via ROADMAP: [https://roadmap.sh/r/dnb-research-transactions](https:
 
 
 GITHUB PROFILE: [https://github.com/jvenncpe/DNB_ResearchTransactions](https://github.com/jvenncpe/DNB_ResearchTransactions)
+
 GITHUB PAGE: [https://jvenncpe.github.io/DNB_ResearchTransactions/](https://jvenncpe.github.io/DNB_ResearchTransactions/)
 
